@@ -8,7 +8,7 @@ I am a learner and also hard-working. Software or application developer is my pa
 I have done my B.Sc. in engineering from City university of Bangladesh.
 I'm staying motivated to reach my goals easily. I know in programming skills  PHP MySQL, Laravel HTML, CSS,  and Bootstrap. So day by day I am doing my skill development.
 
-Skills: JS/VUE JS / HTML / CSS/PHP/MYSQL/LARAVEL
+Skills:  JS / HTML / CSS/PHP/MYSQL/LARAVEL
 
 - 🔭 I’m currently working on YouTube 
 - 🌱 I’m currently learning JavaScript 
